@@ -1,5 +1,5 @@
 # MAPS
-MAPS：a Multi-task Framework with Anchor Point Sampling in Zero-shot Entity Linking 
+**MAPS：a Multi-task Framework with Anchor Point Sampling in Zero-shot Entity Linking**
 
 ## Data Preparation:
 
